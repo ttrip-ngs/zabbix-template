@@ -1,0 +1,38 @@
+# 一時ファイル
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# IDEファイル
+.vscode/
+.idea/
+*.iml
+
+# ログファイル
+*.log
+
+# 環境変数ファイル
+.env
+.env.local
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Node.js関連
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
